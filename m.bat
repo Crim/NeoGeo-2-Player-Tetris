@@ -1,0 +1,1 @@
+c:\neodev\setmvs.bat && make clean && make && makeroms && cd c:\mame && mame puzzledp && cd c:\neodev\src\samples\tetris

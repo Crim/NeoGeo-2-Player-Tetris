@@ -1,0 +1,1 @@
+c:\neodev\setmvs.bat && make clean && make
